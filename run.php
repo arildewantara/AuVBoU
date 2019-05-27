@@ -1,10 +1,10 @@
 <?php
 
-echo "\n[*] Enter url: ";
+echo "[*] Enter url: ";
 
 $abc = trim(fgets(STDIN));
 
-echo "\n[*] Enter many: ";
+echo "[*] Enter many: ";
 
 $y = trim(fgets(STDIN));
 
